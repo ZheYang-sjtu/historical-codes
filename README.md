@@ -1,2 +1,2 @@
 # historical-codes
-Zhe's historical challenging code
+Zhe's historical code
